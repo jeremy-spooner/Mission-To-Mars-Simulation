@@ -35,7 +35,7 @@ Cost of using U2 Rockets: $4920 Million
 
 ## UML Diagram
 
-![\images\SpaceChallengeUML.jpg](\images\SpaceChallengeUML.jpg)
+![SpaceChallengeUML.jpg](/images/SpaceChallengeUML.jpg)
 
 This project was adapted from the free Udacity Course "Object Oriented Programming in Java". The prompt was given
 as a final project. All code is implemented by the gitHub owner and the UML diagram was designed by the gitHub owner.
